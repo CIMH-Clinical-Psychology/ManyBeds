@@ -1,0 +1,260 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="https://manybeds.com/tags/cloud/rss.xml" rel="self" type="application/rss+xml"/>
+
+        
+            <copyright>© 2024 ManyBeds Lead Lab</copyright>
+        
+
+        <description>Recent content</description>
+
+        
+            <language>en</language>
+        
+
+        
+            <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
+        
+
+        <link>https://manybeds.com/tags/cloud/</link>
+
+        
+            <managingEditor>manybeds@gmail.com (Julia Beitner)</managingEditor>
+        
+
+        <title>Cloud · Tags · Paige</title>
+
+        
+            <webMaster>manybeds@gmail.com (Julia Beitner)</webMaster>
+        
+
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+                    
+
+                    
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+                    
+                    
+                
+
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<p>Paige provides a <code>paige/cloud</code> layout for taxonomy pages with lots of terms.</p>
+<p>This page has the following parameters:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nt">layout</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;paige/cloud&#34;</span><span class="w">
+</span></span></span></code></pre></div><p>Result:</p>]]></description>
+                
+
+                <guid  isPermaLink="false" >https://manybeds.com/contact/cloud/atom.xml</guid>
+
+                
+                    <link>https://manybeds.com/contact/cloud/atom.xml</link>
+                
+
+                
+                    <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+                
+
+                
+                    <title>Cloud Layout</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+                    
+
+                    
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+                    
+                    
+                
+
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<p>Paige provides a <code>paige/cloud</code> layout for taxonomy pages with lots of terms.</p>
+<p>This page has the following parameters:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nt">layout</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;paige/cloud&#34;</span><span class="w">
+</span></span></span></code></pre></div><p>Result:</p>]]></description>
+                
+
+                <guid  isPermaLink="false" >https://manybeds.com/data_analysis/cloud/atom.xml</guid>
+
+                
+                    <link>https://manybeds.com/data_analysis/cloud/atom.xml</link>
+                
+
+                
+                    <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+                
+
+                
+                    <title>Cloud Layout</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+                    
+
+                    
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+                    
+                    
+                
+
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<p>Paige provides a <code>paige/cloud</code> layout for taxonomy pages with lots of terms.</p>
+<p>This page has the following parameters:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nt">layout</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;paige/cloud&#34;</span><span class="w">
+</span></span></span></code></pre></div><p>Result:</p>]]></description>
+                
+
+                <guid  isPermaLink="false" >https://manybeds.com/data_collection/cloud/atom.xml</guid>
+
+                
+                    <link>https://manybeds.com/data_collection/cloud/atom.xml</link>
+                
+
+                
+                    <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+                
+
+                
+                    <title>Cloud Layout</title>
+                
+            </item>
+        
+    </channel>
+</rss>

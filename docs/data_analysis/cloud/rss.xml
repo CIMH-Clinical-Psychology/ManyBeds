@@ -1,0 +1,74 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="https://manybeds.com/data_analysis/cloud/rss.xml" rel="self" type="application/rss+xml"/>
+
+        
+            <copyright>© 2024 ManyBeds Lead Lab</copyright>
+        
+
+        <description>Demonstration of the Paige cloud layout.</description>
+
+        
+            <language>en</language>
+        
+
+        
+            <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
+        
+
+        <link>https://manybeds.com/data_analysis/cloud/</link>
+
+        
+            <managingEditor>manybeds@gmail.com (Julia Beitner)</managingEditor>
+        
+
+        <title>Cloud Layout · Layouts · Paige</title>
+
+        
+            <webMaster>manybeds@gmail.com (Julia Beitner)</webMaster>
+        
+
+        
+    </channel>
+</rss>

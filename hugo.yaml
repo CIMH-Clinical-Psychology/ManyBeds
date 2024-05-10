@@ -1,5 +1,6 @@
 theme: paige
-baseurl: https://example.com
+baseurl: https://manybeds.com
+publishDir: docs
 copyright: © 2024 ManyBeds Lead Lab
 enablerobotstxt: yes
 languagecode: en-us
