@@ -74,14 +74,12 @@ params:
       default: yes
       email: manybeds@gmail.com
       name: Lead Lab
-      url: https://willfaught.com/paige
   paige:
     feed:
       atom:
         authors:
           - email: manybeds@gmail.com
             name: Lead Lab
-            url: https://willfaught.com/paige
       rss:
         managing_editor: manybeds@gmail.com (Julia Beitner)
         web_master: manybeds@gmail.com (Julia Beitner)

@@ -35,7 +35,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="http://localhost:4321/data_analysis/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://cimh-clinical-psychology.github.io/ManyBeds/data_analysis/rss.xml" rel="self" type="application/rss+xml"/>
 
         
             <copyright>© 2024 ManyBeds Lead Lab</copyright>
@@ -51,13 +51,13 @@
             <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
         
 
-        <link>http://localhost:4321/data_analysis/</link>
+        <link>https://cimh-clinical-psychology.github.io/ManyBeds/data_analysis/</link>
 
         
             <managingEditor>manybeds@gmail.com (Julia Beitner)</managingEditor>
         
 
-        <title>Layouts · Paige</title>
+        <title>Layouts · ManyBeds</title>
 
         
             <webMaster>manybeds@gmail.com (Julia Beitner)</webMaster>

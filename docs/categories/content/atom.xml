@@ -117,14 +117,12 @@
             
 
             
-                <uri>https://willfaught.com/paige</uri>
-            
         </author>
     
 
     
 
-    <id>tag:localhost:4321,2023-09-24:2023-09-24T21:29:31-07:00</id>
+    <id>tag:cimh-clinical-psychology.github.io,2023-09-24:2023-09-24T21:29:31-07:00</id>
 
     
         
@@ -134,7 +132,7 @@
         
 
         
-            <link href="http://localhost:4321/categories/content/atom.xml" rel="self" type="application/atom+xml"/>
+            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/categories/content/atom.xml" rel="self" type="application/atom+xml"/>
         
     
         
@@ -144,7 +142,7 @@
         
 
         
-            <link href="http://localhost:4321/categories/content/" rel="alternate" type="text/html"/>
+            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/categories/content/" rel="alternate" type="text/html"/>
         
     
         
@@ -152,7 +150,7 @@
         
 
         
-            <link href="http://localhost:4321/categories/content/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/categories/content/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 
@@ -166,7 +164,7 @@
 
     
 
-    <title type="html"><![CDATA[Content · Categories · Paige]]></title>
+    <title type="html"><![CDATA[Content · Categories · ManyBeds]]></title>
     <updated>2023-09-24T21:29:31-07:00</updated>
 
     
@@ -374,7 +372,7 @@ SOFTWARE.
 </div>]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:32:52-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-18:2023-09-18T21:32:52-07:00</id>
 
             
                 
@@ -382,7 +380,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="http://localhost:4321/about/markdown-syntax/" rel="alternate" type="text/html"/>
+                    <link href="https://cimh-clinical-psychology.github.io/ManyBeds/about/markdown-syntax/" rel="alternate" type="text/html"/>
                 
             
 
@@ -610,7 +608,7 @@ SOFTWARE.
 </div>]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:32:52-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-18:2023-09-18T21:32:52-07:00</id>
 
             
                 
@@ -618,7 +616,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="http://localhost:4321/content/markdown-syntax/" rel="alternate" type="text/html"/>
+                    <link href="https://cimh-clinical-psychology.github.io/ManyBeds/content/markdown-syntax/" rel="alternate" type="text/html"/>
                 
             
 
@@ -726,7 +724,7 @@ $$
 $$</p>]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:33:03-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-18:2023-09-18T21:33:03-07:00</id>
 
             
                 
@@ -734,7 +732,7 @@ $$</p>]]></content>
                 
                     
 
-                    <link href="http://localhost:4321/about/math-typesetting/" rel="alternate" type="text/html"/>
+                    <link href="https://cimh-clinical-psychology.github.io/ManyBeds/about/math-typesetting/" rel="alternate" type="text/html"/>
                 
             
 
@@ -844,7 +842,7 @@ $$
 $$</p>]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:33:03-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-18:2023-09-18T21:33:03-07:00</id>
 
             
                 
@@ -852,7 +850,7 @@ $$</p>]]></content>
                 
                     
 
-                    <link href="http://localhost:4321/content/math-typesetting/" rel="alternate" type="text/html"/>
+                    <link href="https://cimh-clinical-psychology.github.io/ManyBeds/content/math-typesetting/" rel="alternate" type="text/html"/>
                 
             
 
@@ -951,7 +949,7 @@ SOFTWARE.
 </span></span><span class="line"><span class="cl">}</span></span></code></pre></div>]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:32:40-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-18:2023-09-18T21:32:40-07:00</id>
 
             
                 
@@ -959,7 +957,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="http://localhost:4321/about/emoji-support/" rel="alternate" type="text/html"/>
+                    <link href="https://cimh-clinical-psychology.github.io/ManyBeds/about/emoji-support/" rel="alternate" type="text/html"/>
                 
             
 
@@ -1060,7 +1058,7 @@ SOFTWARE.
 </span></span><span class="line"><span class="cl">}</span></span></code></pre></div>]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:32:40-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-18:2023-09-18T21:32:40-07:00</id>
 
             
                 
@@ -1068,7 +1066,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="http://localhost:4321/content/emoji-support/" rel="alternate" type="text/html"/>
+                    <link href="https://cimh-clinical-psychology.github.io/ManyBeds/content/emoji-support/" rel="alternate" type="text/html"/>
                 
             
 
@@ -1137,7 +1135,7 @@ SOFTWARE.
 </span></span></span></code></pre></div>]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:33:35-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-18:2023-09-18T21:33:35-07:00</id>
 
             
                 
@@ -1145,7 +1143,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="http://localhost:4321/about/simple-alert/" rel="alternate" type="text/html"/>
+                    <link href="https://cimh-clinical-psychology.github.io/ManyBeds/about/simple-alert/" rel="alternate" type="text/html"/>
                 
             
 
@@ -1216,7 +1214,7 @@ SOFTWARE.
 </span></span></span></code></pre></div>]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:33:35-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-18:2023-09-18T21:33:35-07:00</id>
 
             
                 
@@ -1224,7 +1222,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="http://localhost:4321/content/simple-alert/" rel="alternate" type="text/html"/>
+                    <link href="https://cimh-clinical-psychology.github.io/ManyBeds/content/simple-alert/" rel="alternate" type="text/html"/>
                 
             
 
@@ -1295,7 +1293,7 @@ SOFTWARE.
 </span></span></span></code></pre></div>]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:21:05-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-18:2023-09-18T21:21:05-07:00</id>
 
             
                 
@@ -1303,7 +1301,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="http://localhost:4321/about/complex-alert/" rel="alternate" type="text/html"/>
+                    <link href="https://cimh-clinical-psychology.github.io/ManyBeds/about/complex-alert/" rel="alternate" type="text/html"/>
                 
             
 
@@ -1376,7 +1374,7 @@ SOFTWARE.
 </span></span></span></code></pre></div>]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:21:05-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-18:2023-09-18T21:21:05-07:00</id>
 
             
                 
@@ -1384,7 +1382,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="http://localhost:4321/content/complex-alert/" rel="alternate" type="text/html"/>
+                    <link href="https://cimh-clinical-psychology.github.io/ManyBeds/content/complex-alert/" rel="alternate" type="text/html"/>
                 
             
 
@@ -1453,10 +1451,10 @@ SOFTWARE.
 
             
                 <content type="html"><![CDATA[<p>It takes you to the home page.</p>
-<p><a href="http://localhost:4321/about/link/" title="Link">⏎</a></p>]]></content>
+<p><a href="https://cimh-clinical-psychology.github.io/ManyBeds/about/link/" title="Link">⏎</a></p>]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-24:2023-09-24T21:29:30-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-24:2023-09-24T21:29:30-07:00</id>
 
             
                 
@@ -1535,10 +1533,10 @@ SOFTWARE.
 
             
                 <content type="html"><![CDATA[<p>It takes you to the home page.</p>
-<p><a href="http://localhost:4321/content/link/" title="Link">⏎</a></p>]]></content>
+<p><a href="https://cimh-clinical-psychology.github.io/ManyBeds/content/link/" title="Link">⏎</a></p>]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-24:2023-09-24T21:29:30-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-24:2023-09-24T21:29:30-07:00</id>
 
             
                 
@@ -1701,7 +1699,7 @@ SOFTWARE.
 ]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-24:2023-09-24T21:29:31-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-24:2023-09-24T21:29:31-07:00</id>
 
             
                 
@@ -1709,7 +1707,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="http://localhost:4321/about/video/" rel="alternate" type="text/html"/>
+                    <link href="https://cimh-clinical-psychology.github.io/ManyBeds/about/video/" rel="alternate" type="text/html"/>
                 
             
 
@@ -1866,7 +1864,7 @@ SOFTWARE.
 ]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-24:2023-09-24T21:29:31-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-24:2023-09-24T21:29:31-07:00</id>
 
             
                 
@@ -1874,7 +1872,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="http://localhost:4321/content/video/" rel="alternate" type="text/html"/>
+                    <link href="https://cimh-clinical-psychology.github.io/ManyBeds/content/video/" rel="alternate" type="text/html"/>
                 
             
 

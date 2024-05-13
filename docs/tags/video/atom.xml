@@ -61,14 +61,12 @@
             
 
             
-                <uri>https://willfaught.com/paige</uri>
-            
         </author>
     
 
     
 
-    <id>tag:localhost:4321,2023-09-24:2023-09-24T21:29:31-07:00</id>
+    <id>tag:cimh-clinical-psychology.github.io,2023-09-24:2023-09-24T21:29:31-07:00</id>
 
     
         
@@ -78,7 +76,7 @@
         
 
         
-            <link href="http://localhost:4321/tags/video/atom.xml" rel="self" type="application/atom+xml"/>
+            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/tags/video/atom.xml" rel="self" type="application/atom+xml"/>
         
     
         
@@ -88,7 +86,7 @@
         
 
         
-            <link href="http://localhost:4321/tags/video/" rel="alternate" type="text/html"/>
+            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/tags/video/" rel="alternate" type="text/html"/>
         
     
         
@@ -96,7 +94,7 @@
         
 
         
-            <link href="http://localhost:4321/tags/video/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/tags/video/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 
@@ -110,7 +108,7 @@
 
     
 
-    <title type="html"><![CDATA[Video · Tags · Paige]]></title>
+    <title type="html"><![CDATA[Video · Tags · ManyBeds]]></title>
     <updated>2023-09-24T21:29:31-07:00</updated>
 
     
@@ -247,7 +245,7 @@
 ]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-24:2023-09-24T21:29:31-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-24:2023-09-24T21:29:31-07:00</id>
 
             
                 
@@ -255,7 +253,7 @@
                 
                     
 
-                    <link href="http://localhost:4321/about/video/" rel="alternate" type="text/html"/>
+                    <link href="https://cimh-clinical-psychology.github.io/ManyBeds/about/video/" rel="alternate" type="text/html"/>
                 
             
 
@@ -412,7 +410,7 @@
 ]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-24:2023-09-24T21:29:31-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-24:2023-09-24T21:29:31-07:00</id>
 
             
                 
@@ -420,7 +418,7 @@
                 
                     
 
-                    <link href="http://localhost:4321/content/video/" rel="alternate" type="text/html"/>
+                    <link href="https://cimh-clinical-psychology.github.io/ManyBeds/content/video/" rel="alternate" type="text/html"/>
                 
             
 

@@ -61,14 +61,12 @@
             
 
             
-                <uri>https://willfaught.com/paige</uri>
-            
         </author>
     
 
     
 
-    <id>tag:localhost:4321,2023-09-18:2023-09-18T21:32:52-07:00</id>
+    <id>tag:cimh-clinical-psychology.github.io,2023-09-18:2023-09-18T21:32:52-07:00</id>
 
     
         
@@ -78,7 +76,7 @@
         
 
         
-            <link href="http://localhost:4321/tags/css/atom.xml" rel="self" type="application/atom+xml"/>
+            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/tags/css/atom.xml" rel="self" type="application/atom+xml"/>
         
     
         
@@ -88,7 +86,7 @@
         
 
         
-            <link href="http://localhost:4321/tags/css/" rel="alternate" type="text/html"/>
+            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/tags/css/" rel="alternate" type="text/html"/>
         
     
         
@@ -96,7 +94,7 @@
         
 
         
-            <link href="http://localhost:4321/tags/css/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/tags/css/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 
@@ -110,7 +108,7 @@
 
     
 
-    <title type="html"><![CDATA[Css · Tags · Paige]]></title>
+    <title type="html"><![CDATA[Css · Tags · ManyBeds]]></title>
     <updated>2023-09-24T21:29:31-07:00</updated>
 
     
@@ -318,7 +316,7 @@ SOFTWARE.
 </div>]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:32:52-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-18:2023-09-18T21:32:52-07:00</id>
 
             
                 
@@ -326,7 +324,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="http://localhost:4321/about/markdown-syntax/" rel="alternate" type="text/html"/>
+                    <link href="https://cimh-clinical-psychology.github.io/ManyBeds/about/markdown-syntax/" rel="alternate" type="text/html"/>
                 
             
 
@@ -554,7 +552,7 @@ SOFTWARE.
 </div>]]></content>
             
 
-            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:32:52-07:00</id>
+            <id>tag:cimh-clinical-psychology.github.io,2023-09-18:2023-09-18T21:32:52-07:00</id>
 
             
                 
@@ -562,7 +560,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="http://localhost:4321/content/markdown-syntax/" rel="alternate" type="text/html"/>
+                    <link href="https://cimh-clinical-psychology.github.io/ManyBeds/content/markdown-syntax/" rel="alternate" type="text/html"/>
                 
             
 

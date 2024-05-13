@@ -47,7 +47,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="http://localhost:4321/tags/cloud/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://cimh-clinical-psychology.github.io/ManyBeds/tags/cloud/rss.xml" rel="self" type="application/rss+xml"/>
 
         
             <copyright>© 2024 ManyBeds Lead Lab</copyright>
@@ -63,13 +63,13 @@
             <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
         
 
-        <link>http://localhost:4321/tags/cloud/</link>
+        <link>https://cimh-clinical-psychology.github.io/ManyBeds/tags/cloud/</link>
 
         
             <managingEditor>manybeds@gmail.com (Julia Beitner)</managingEditor>
         
 
-        <title>Cloud · Tags · Paige</title>
+        <title>Cloud · Tags · ManyBeds</title>
 
         
             <webMaster>manybeds@gmail.com (Julia Beitner)</webMaster>
@@ -121,70 +121,10 @@
 </span></span></span></code></pre></div><p>Result:</p>]]></description>
                 
 
-                <guid  isPermaLink="false" >http://localhost:4321/contact/cloud/atom.xml</guid>
+                <guid  isPermaLink="false" >https://cimh-clinical-psychology.github.io/ManyBeds/contact/cloud/atom.xml</guid>
 
                 
-                    <link>http://localhost:4321/contact/cloud/atom.xml</link>
-                
-
-                
-                    <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-                
-
-                
-                    <title>Cloud Layout</title>
-                
-            </item>
-        
-            <item>
-                
-                
-                
-                
-                
-                
-                
-                
-
-                
-
-                
-                    
-
-                    
-                
-
-                
-
-                
-
-                
-                
-
-                
-
-                
-                    
-                    
-                
-
-                
-
-                
-
-                
-
-                
-                    <description><![CDATA[<p>Paige provides a <code>paige/cloud</code> layout for taxonomy pages with lots of terms.</p>
-<p>This page has the following parameters:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nt">layout</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;paige/cloud&#34;</span><span class="w">
-</span></span></span></code></pre></div><p>Result:</p>]]></description>
-                
-
-                <guid  isPermaLink="false" >http://localhost:4321/data_analysis/cloud/atom.xml</guid>
-
-                
-                    <link>http://localhost:4321/data_analysis/cloud/atom.xml</link>
+                    <link>https://cimh-clinical-psychology.github.io/ManyBeds/contact/cloud/atom.xml</link>
                 
 
                 
@@ -241,10 +181,70 @@
 </span></span></span></code></pre></div><p>Result:</p>]]></description>
                 
 
-                <guid  isPermaLink="false" >http://localhost:4321/data_collection/cloud/atom.xml</guid>
+                <guid  isPermaLink="false" >https://cimh-clinical-psychology.github.io/ManyBeds/data_analysis/cloud/atom.xml</guid>
 
                 
-                    <link>http://localhost:4321/data_collection/cloud/atom.xml</link>
+                    <link>https://cimh-clinical-psychology.github.io/ManyBeds/data_analysis/cloud/atom.xml</link>
+                
+
+                
+                    <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+                
+
+                
+                    <title>Cloud Layout</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+                    
+
+                    
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+                    
+                    
+                
+
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<p>Paige provides a <code>paige/cloud</code> layout for taxonomy pages with lots of terms.</p>
+<p>This page has the following parameters:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nt">layout</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;paige/cloud&#34;</span><span class="w">
+</span></span></span></code></pre></div><p>Result:</p>]]></description>
+                
+
+                <guid  isPermaLink="false" >https://cimh-clinical-psychology.github.io/ManyBeds/data_collection/cloud/atom.xml</guid>
+
+                
+                    <link>https://cimh-clinical-psychology.github.io/ManyBeds/data_collection/cloud/atom.xml</link>
                 
 
                 

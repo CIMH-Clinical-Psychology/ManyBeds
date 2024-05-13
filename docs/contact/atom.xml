@@ -53,14 +53,12 @@
             
 
             
-                <uri>https://willfaught.com/paige</uri>
-            
         </author>
     
 
     
 
-    <id>http://localhost:4321/contact/atom.xml</id>
+    <id>https://cimh-clinical-psychology.github.io/ManyBeds/contact/atom.xml</id>
 
     
         
@@ -70,7 +68,7 @@
         
 
         
-            <link href="http://localhost:4321/contact/atom.xml" rel="self" type="application/atom+xml"/>
+            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/contact/atom.xml" rel="self" type="application/atom+xml"/>
         
     
         
@@ -80,7 +78,7 @@
         
 
         
-            <link href="http://localhost:4321/contact/" rel="alternate" type="text/html"/>
+            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/contact/" rel="alternate" type="text/html"/>
         
     
         
@@ -88,7 +86,7 @@
         
 
         
-            <link href="http://localhost:4321/contact/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/contact/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 
@@ -104,7 +102,7 @@
         <subtitle type="html"><![CDATA[Demonstrations of Paige layouts.]]></subtitle>
     
 
-    <title type="html"><![CDATA[Layouts · Paige]]></title>
+    <title type="html"><![CDATA[Layouts · ManyBeds]]></title>
     <updated>2023-09-24T21:29:31-07:00</updated>
 
     

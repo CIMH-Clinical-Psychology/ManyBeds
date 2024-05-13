@@ -37,7 +37,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="http://localhost:4321/authors/lead-lab/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://cimh-clinical-psychology.github.io/ManyBeds/authors/lead-lab/rss.xml" rel="self" type="application/rss+xml"/>
 
         
             <copyright>© 2024 ManyBeds Lead Lab</copyright>
@@ -53,13 +53,13 @@
             <lastBuildDate>Mon, 18 Sep 2023 21:33:16 -0700</lastBuildDate>
         
 
-        <link>http://localhost:4321/authors/lead-lab/</link>
+        <link>https://cimh-clinical-psychology.github.io/ManyBeds/authors/lead-lab/</link>
 
         
             <managingEditor>manybeds@gmail.com (Julia Beitner)</managingEditor>
         
 
-        <title>Lead Lab · Authors · Paige</title>
+        <title>Lead Lab · Authors · ManyBeds</title>
 
         
             <webMaster>manybeds@gmail.com (Julia Beitner)</webMaster>
