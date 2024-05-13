@@ -41,7 +41,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="https://manybeds.com/contact/cloud/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://localhost:4321/contact/cloud/rss.xml" rel="self" type="application/rss+xml"/>
 
         
             <copyright>© 2024 ManyBeds Lead Lab</copyright>
@@ -57,7 +57,7 @@
             <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
         
 
-        <link>https://manybeds.com/contact/cloud/</link>
+        <link>http://localhost:4321/contact/cloud/</link>
 
         
             <managingEditor>manybeds@gmail.com (Julia Beitner)</managingEditor>

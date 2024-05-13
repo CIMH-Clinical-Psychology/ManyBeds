@@ -60,7 +60,7 @@
 
     
 
-    <id>https://manybeds.com/data_collection/atom.xml</id>
+    <id>http://localhost:4321/data_collection/atom.xml</id>
 
     
         
@@ -70,7 +70,7 @@
         
 
         
-            <link href="https://manybeds.com/data_collection/atom.xml" rel="self" type="application/atom+xml"/>
+            <link href="http://localhost:4321/data_collection/atom.xml" rel="self" type="application/atom+xml"/>
         
     
         
@@ -80,7 +80,7 @@
         
 
         
-            <link href="https://manybeds.com/data_collection/" rel="alternate" type="text/html"/>
+            <link href="http://localhost:4321/data_collection/" rel="alternate" type="text/html"/>
         
     
         
@@ -88,7 +88,7 @@
         
 
         
-            <link href="https://manybeds.com/data_collection/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="http://localhost:4321/data_collection/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 

@@ -76,7 +76,7 @@
 
     
 
-    <id>tag:manybeds.com,2023-09-18:2023-09-18T21:33:35-07:00</id>
+    <id>tag:localhost:4321,2023-09-18:2023-09-18T21:33:35-07:00</id>
 
     
         
@@ -86,7 +86,7 @@
         
 
         
-            <link href="https://manybeds.com/tags/alerts/atom.xml" rel="self" type="application/atom+xml"/>
+            <link href="http://localhost:4321/tags/alerts/atom.xml" rel="self" type="application/atom+xml"/>
         
     
         
@@ -96,7 +96,7 @@
         
 
         
-            <link href="https://manybeds.com/tags/alerts/" rel="alternate" type="text/html"/>
+            <link href="http://localhost:4321/tags/alerts/" rel="alternate" type="text/html"/>
         
     
         
@@ -104,7 +104,7 @@
         
 
         
-            <link href="https://manybeds.com/tags/alerts/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="http://localhost:4321/tags/alerts/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 
@@ -169,7 +169,7 @@
 </span></span></span></code></pre></div>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:33:35-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:33:35-07:00</id>
 
             
                 
@@ -177,7 +177,7 @@
                 
                     
 
-                    <link href="https://manybeds.com/about/simple-alert/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/about/simple-alert/" rel="alternate" type="text/html"/>
                 
             
 
@@ -248,7 +248,7 @@
 </span></span></span></code></pre></div>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:33:35-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:33:35-07:00</id>
 
             
                 
@@ -256,7 +256,7 @@
                 
                     
 
-                    <link href="https://manybeds.com/content/simple-alert/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/content/simple-alert/" rel="alternate" type="text/html"/>
                 
             
 
@@ -327,7 +327,7 @@
 </span></span></span></code></pre></div>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:21:05-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:21:05-07:00</id>
 
             
                 
@@ -335,7 +335,7 @@
                 
                     
 
-                    <link href="https://manybeds.com/about/complex-alert/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/about/complex-alert/" rel="alternate" type="text/html"/>
                 
             
 
@@ -408,7 +408,7 @@
 </span></span></span></code></pre></div>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:21:05-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:21:05-07:00</id>
 
             
                 
@@ -416,7 +416,7 @@
                 
                     
 
-                    <link href="https://manybeds.com/content/complex-alert/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/content/complex-alert/" rel="alternate" type="text/html"/>
                 
             
 

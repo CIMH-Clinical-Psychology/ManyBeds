@@ -78,7 +78,7 @@
 
     
 
-    <id>https://manybeds.com/categories/layouts/atom.xml</id>
+    <id>http://localhost:4321/categories/layouts/atom.xml</id>
 
     
         
@@ -88,7 +88,7 @@
         
 
         
-            <link href="https://manybeds.com/categories/layouts/atom.xml" rel="self" type="application/atom+xml"/>
+            <link href="http://localhost:4321/categories/layouts/atom.xml" rel="self" type="application/atom+xml"/>
         
     
         
@@ -98,7 +98,7 @@
         
 
         
-            <link href="https://manybeds.com/categories/layouts/" rel="alternate" type="text/html"/>
+            <link href="http://localhost:4321/categories/layouts/" rel="alternate" type="text/html"/>
         
     
         
@@ -106,7 +106,7 @@
         
 
         
-            <link href="https://manybeds.com/categories/layouts/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="http://localhost:4321/categories/layouts/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 
@@ -173,7 +173,7 @@
 </span></span></span></code></pre></div><p>Result:</p>]]></content>
             
 
-            <id>https://manybeds.com/contact/cloud/atom.xml</id>
+            <id>http://localhost:4321/contact/cloud/atom.xml</id>
 
             
                 
@@ -181,7 +181,7 @@
                 
                     
 
-                    <link href="https://manybeds.com/contact/cloud/atom.xml" rel="alternate" type="application/atom+xml"/>
+                    <link href="http://localhost:4321/contact/cloud/atom.xml" rel="alternate" type="application/atom+xml"/>
                 
             
                 
@@ -189,7 +189,7 @@
                 
                     
 
-                    <link href="https://manybeds.com/contact/cloud/atom.xml" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/contact/cloud/atom.xml" rel="alternate" type="text/html"/>
                 
             
                 
@@ -197,7 +197,7 @@
                 
                     
 
-                    <link href="https://manybeds.com/contact/cloud/rss.xml" rel="alternate" type="application/rss+xml"/>
+                    <link href="http://localhost:4321/contact/cloud/rss.xml" rel="alternate" type="application/rss+xml"/>
                 
             
 
@@ -266,7 +266,7 @@
 </span></span></span></code></pre></div><p>Result:</p>]]></content>
             
 
-            <id>https://manybeds.com/data_analysis/cloud/atom.xml</id>
+            <id>http://localhost:4321/data_analysis/cloud/atom.xml</id>
 
             
                 
@@ -274,7 +274,7 @@
                 
                     
 
-                    <link href="https://manybeds.com/data_analysis/cloud/atom.xml" rel="alternate" type="application/atom+xml"/>
+                    <link href="http://localhost:4321/data_analysis/cloud/atom.xml" rel="alternate" type="application/atom+xml"/>
                 
             
                 
@@ -282,7 +282,7 @@
                 
                     
 
-                    <link href="https://manybeds.com/data_analysis/cloud/atom.xml" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/data_analysis/cloud/atom.xml" rel="alternate" type="text/html"/>
                 
             
                 
@@ -290,7 +290,7 @@
                 
                     
 
-                    <link href="https://manybeds.com/data_analysis/cloud/rss.xml" rel="alternate" type="application/rss+xml"/>
+                    <link href="http://localhost:4321/data_analysis/cloud/rss.xml" rel="alternate" type="application/rss+xml"/>
                 
             
 
@@ -359,7 +359,7 @@
 </span></span></span></code></pre></div><p>Result:</p>]]></content>
             
 
-            <id>https://manybeds.com/data_collection/cloud/atom.xml</id>
+            <id>http://localhost:4321/data_collection/cloud/atom.xml</id>
 
             
                 
@@ -367,7 +367,7 @@
                 
                     
 
-                    <link href="https://manybeds.com/data_collection/cloud/atom.xml" rel="alternate" type="application/atom+xml"/>
+                    <link href="http://localhost:4321/data_collection/cloud/atom.xml" rel="alternate" type="application/atom+xml"/>
                 
             
                 
@@ -375,7 +375,7 @@
                 
                     
 
-                    <link href="https://manybeds.com/data_collection/cloud/atom.xml" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/data_collection/cloud/atom.xml" rel="alternate" type="text/html"/>
                 
             
                 
@@ -383,7 +383,7 @@
                 
                     
 
-                    <link href="https://manybeds.com/data_collection/cloud/rss.xml" rel="alternate" type="application/rss+xml"/>
+                    <link href="http://localhost:4321/data_collection/cloud/rss.xml" rel="alternate" type="application/rss+xml"/>
                 
             
 

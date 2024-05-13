@@ -72,7 +72,7 @@
 
     
 
-    <id>tag:manybeds.com,2023-09-18:2023-09-18T21:33:16-07:00</id>
+    <id>tag:localhost:4321,2023-09-18:2023-09-18T21:33:16-07:00</id>
 
     
         
@@ -82,7 +82,7 @@
         
 
         
-            <link href="https://manybeds.com/tags/markdown/atom.xml" rel="self" type="application/atom+xml"/>
+            <link href="http://localhost:4321/tags/markdown/atom.xml" rel="self" type="application/atom+xml"/>
         
     
         
@@ -92,7 +92,7 @@
         
 
         
-            <link href="https://manybeds.com/tags/markdown/" rel="alternate" type="text/html"/>
+            <link href="http://localhost:4321/tags/markdown/" rel="alternate" type="text/html"/>
         
     
         
@@ -100,7 +100,7 @@
         
 
         
-            <link href="https://manybeds.com/tags/markdown/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="http://localhost:4321/tags/markdown/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 
@@ -322,7 +322,7 @@ SOFTWARE.
 </div>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:32:52-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:32:52-07:00</id>
 
             
                 
@@ -330,7 +330,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/about/markdown-syntax/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/about/markdown-syntax/" rel="alternate" type="text/html"/>
                 
             
 
@@ -558,7 +558,7 @@ SOFTWARE.
 </div>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:32:52-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:32:52-07:00</id>
 
             
                 
@@ -566,7 +566,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/content/markdown-syntax/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/content/markdown-syntax/" rel="alternate" type="text/html"/>
                 
             
 

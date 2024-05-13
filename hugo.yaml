@@ -1,5 +1,5 @@
 theme: paige
-baseurl: https://manybeds.com
+baseurl: https://cimh-clinical-psychology.github.io/ManyBeds/
 publishDir: docs
 copyright: © 2024 ManyBeds Lead Lab
 enablerobotstxt: yes

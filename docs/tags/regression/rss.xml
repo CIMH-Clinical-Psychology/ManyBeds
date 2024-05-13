@@ -39,7 +39,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="https://manybeds.com/tags/regression/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://localhost:4321/tags/regression/rss.xml" rel="self" type="application/rss+xml"/>
 
         
             <copyright>© 2024 ManyBeds Lead Lab</copyright>
@@ -55,7 +55,7 @@
             <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
         
 
-        <link>https://manybeds.com/tags/regression/</link>
+        <link>http://localhost:4321/tags/regression/</link>
 
         
             <managingEditor>manybeds@gmail.com (Julia Beitner)</managingEditor>
@@ -140,16 +140,16 @@
 </span></span><span class="line"><span class="cl">  <span class="n">init.angle</span> <span class="o">=</span> <span class="m">-50</span><span class="p">,</span> <span class="n">border</span> <span class="o">=</span> <span class="kc">NA</span>
 </span></span><span class="line"><span class="cl"><span class="p">)</span>
 </span></span></code></pre></div><div class="figure">
-<img src="https://manybeds.com/post/2020-12-01-r-rmarkdown/index_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+<img src="/post/2020-12-01-r-rmarkdown/index_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
 <p class="caption"><span id="fig:pie"></span>Figure 1: A fancy pie chart.</p>
 </div>
 ]]></description>
                 
 
-                <guid  isPermaLink="false" >tag:manybeds.com,2020-12-01:2020-12-01T21:13:14-05:00</guid>
+                <guid  isPermaLink="false" >tag:localhost:4321,2020-12-01:2020-12-01T21:13:14-05:00</guid>
 
                 
-                    <link>https://manybeds.com/post/2020-12-01-r-rmarkdown/</link>
+                    <link>http://localhost:4321/post/2020-12-01-r-rmarkdown/</link>
                 
 
                 

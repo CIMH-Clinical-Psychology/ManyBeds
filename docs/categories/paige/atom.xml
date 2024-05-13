@@ -142,7 +142,7 @@
 
     
 
-    <id>tag:manybeds.com,2023-09-24:2023-09-24T21:29:31-07:00</id>
+    <id>tag:localhost:4321,2023-09-24:2023-09-24T21:29:31-07:00</id>
 
     
         
@@ -152,7 +152,7 @@
         
 
         
-            <link href="https://manybeds.com/categories/paige/atom.xml" rel="self" type="application/atom+xml"/>
+            <link href="http://localhost:4321/categories/paige/atom.xml" rel="self" type="application/atom+xml"/>
         
     
         
@@ -162,7 +162,7 @@
         
 
         
-            <link href="https://manybeds.com/categories/paige/" rel="alternate" type="text/html"/>
+            <link href="http://localhost:4321/categories/paige/" rel="alternate" type="text/html"/>
         
     
         
@@ -170,7 +170,7 @@
         
 
         
-            <link href="https://manybeds.com/categories/paige/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="http://localhost:4321/categories/paige/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 
@@ -392,7 +392,7 @@ SOFTWARE.
 </div>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:32:52-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:32:52-07:00</id>
 
             
                 
@@ -400,7 +400,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/about/markdown-syntax/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/about/markdown-syntax/" rel="alternate" type="text/html"/>
                 
             
 
@@ -628,7 +628,7 @@ SOFTWARE.
 </div>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:32:52-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:32:52-07:00</id>
 
             
                 
@@ -636,7 +636,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/content/markdown-syntax/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/content/markdown-syntax/" rel="alternate" type="text/html"/>
                 
             
 
@@ -707,7 +707,7 @@ SOFTWARE.
 </span></span></span></code></pre></div><p>Result:</p>]]></content>
             
 
-            <id>https://manybeds.com/contact/cloud/atom.xml</id>
+            <id>http://localhost:4321/contact/cloud/atom.xml</id>
 
             
                 
@@ -715,7 +715,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/contact/cloud/atom.xml" rel="alternate" type="application/atom+xml"/>
+                    <link href="http://localhost:4321/contact/cloud/atom.xml" rel="alternate" type="application/atom+xml"/>
                 
             
                 
@@ -723,7 +723,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/contact/cloud/atom.xml" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/contact/cloud/atom.xml" rel="alternate" type="text/html"/>
                 
             
                 
@@ -731,7 +731,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/contact/cloud/rss.xml" rel="alternate" type="application/rss+xml"/>
+                    <link href="http://localhost:4321/contact/cloud/rss.xml" rel="alternate" type="application/rss+xml"/>
                 
             
 
@@ -800,7 +800,7 @@ SOFTWARE.
 </span></span></span></code></pre></div><p>Result:</p>]]></content>
             
 
-            <id>https://manybeds.com/data_analysis/cloud/atom.xml</id>
+            <id>http://localhost:4321/data_analysis/cloud/atom.xml</id>
 
             
                 
@@ -808,7 +808,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/data_analysis/cloud/atom.xml" rel="alternate" type="application/atom+xml"/>
+                    <link href="http://localhost:4321/data_analysis/cloud/atom.xml" rel="alternate" type="application/atom+xml"/>
                 
             
                 
@@ -816,7 +816,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/data_analysis/cloud/atom.xml" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/data_analysis/cloud/atom.xml" rel="alternate" type="text/html"/>
                 
             
                 
@@ -824,7 +824,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/data_analysis/cloud/rss.xml" rel="alternate" type="application/rss+xml"/>
+                    <link href="http://localhost:4321/data_analysis/cloud/rss.xml" rel="alternate" type="application/rss+xml"/>
                 
             
 
@@ -893,7 +893,7 @@ SOFTWARE.
 </span></span></span></code></pre></div><p>Result:</p>]]></content>
             
 
-            <id>https://manybeds.com/data_collection/cloud/atom.xml</id>
+            <id>http://localhost:4321/data_collection/cloud/atom.xml</id>
 
             
                 
@@ -901,7 +901,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/data_collection/cloud/atom.xml" rel="alternate" type="application/atom+xml"/>
+                    <link href="http://localhost:4321/data_collection/cloud/atom.xml" rel="alternate" type="application/atom+xml"/>
                 
             
                 
@@ -909,7 +909,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/data_collection/cloud/atom.xml" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/data_collection/cloud/atom.xml" rel="alternate" type="text/html"/>
                 
             
                 
@@ -917,7 +917,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/data_collection/cloud/rss.xml" rel="alternate" type="application/rss+xml"/>
+                    <link href="http://localhost:4321/data_collection/cloud/rss.xml" rel="alternate" type="application/rss+xml"/>
                 
             
 
@@ -1023,7 +1023,7 @@ $$
 $$</p>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:33:03-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:33:03-07:00</id>
 
             
                 
@@ -1031,7 +1031,7 @@ $$</p>]]></content>
                 
                     
 
-                    <link href="https://manybeds.com/about/math-typesetting/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/about/math-typesetting/" rel="alternate" type="text/html"/>
                 
             
 
@@ -1141,7 +1141,7 @@ $$
 $$</p>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:33:03-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:33:03-07:00</id>
 
             
                 
@@ -1149,7 +1149,7 @@ $$</p>]]></content>
                 
                     
 
-                    <link href="https://manybeds.com/content/math-typesetting/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/content/math-typesetting/" rel="alternate" type="text/html"/>
                 
             
 
@@ -1248,7 +1248,7 @@ SOFTWARE.
 </span></span><span class="line"><span class="cl">}</span></span></code></pre></div>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:32:40-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:32:40-07:00</id>
 
             
                 
@@ -1256,7 +1256,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/about/emoji-support/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/about/emoji-support/" rel="alternate" type="text/html"/>
                 
             
 
@@ -1357,7 +1357,7 @@ SOFTWARE.
 </span></span><span class="line"><span class="cl">}</span></span></code></pre></div>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:32:40-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:32:40-07:00</id>
 
             
                 
@@ -1365,7 +1365,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/content/emoji-support/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/content/emoji-support/" rel="alternate" type="text/html"/>
                 
             
 
@@ -1434,7 +1434,7 @@ SOFTWARE.
 </span></span></span></code></pre></div>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:33:35-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:33:35-07:00</id>
 
             
                 
@@ -1442,7 +1442,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/about/simple-alert/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/about/simple-alert/" rel="alternate" type="text/html"/>
                 
             
 
@@ -1513,7 +1513,7 @@ SOFTWARE.
 </span></span></span></code></pre></div>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:33:35-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:33:35-07:00</id>
 
             
                 
@@ -1521,7 +1521,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/content/simple-alert/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/content/simple-alert/" rel="alternate" type="text/html"/>
                 
             
 
@@ -1592,7 +1592,7 @@ SOFTWARE.
 </span></span></span></code></pre></div>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:21:05-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:21:05-07:00</id>
 
             
                 
@@ -1600,7 +1600,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/about/complex-alert/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/about/complex-alert/" rel="alternate" type="text/html"/>
                 
             
 
@@ -1673,7 +1673,7 @@ SOFTWARE.
 </span></span></span></code></pre></div>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:21:05-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:21:05-07:00</id>
 
             
                 
@@ -1681,7 +1681,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/content/complex-alert/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/content/complex-alert/" rel="alternate" type="text/html"/>
                 
             
 
@@ -1750,10 +1750,10 @@ SOFTWARE.
 
             
                 <content type="html"><![CDATA[<p>It takes you to the home page.</p>
-<p><a href="https://manybeds.com/about/link/" title="Link">⏎</a></p>]]></content>
+<p><a href="http://localhost:4321/about/link/" title="Link">⏎</a></p>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-24:2023-09-24T21:29:30-07:00</id>
+            <id>tag:localhost:4321,2023-09-24:2023-09-24T21:29:30-07:00</id>
 
             
                 
@@ -1832,10 +1832,10 @@ SOFTWARE.
 
             
                 <content type="html"><![CDATA[<p>It takes you to the home page.</p>
-<p><a href="https://manybeds.com/content/link/" title="Link">⏎</a></p>]]></content>
+<p><a href="http://localhost:4321/content/link/" title="Link">⏎</a></p>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-24:2023-09-24T21:29:30-07:00</id>
+            <id>tag:localhost:4321,2023-09-24:2023-09-24T21:29:30-07:00</id>
 
             
                 
@@ -1998,7 +1998,7 @@ SOFTWARE.
 ]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-24:2023-09-24T21:29:31-07:00</id>
+            <id>tag:localhost:4321,2023-09-24:2023-09-24T21:29:31-07:00</id>
 
             
                 
@@ -2006,7 +2006,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/about/video/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/about/video/" rel="alternate" type="text/html"/>
                 
             
 
@@ -2163,7 +2163,7 @@ SOFTWARE.
 ]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-24:2023-09-24T21:29:31-07:00</id>
+            <id>tag:localhost:4321,2023-09-24:2023-09-24T21:29:31-07:00</id>
 
             
                 
@@ -2171,7 +2171,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/content/video/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/content/video/" rel="alternate" type="text/html"/>
                 
             
 

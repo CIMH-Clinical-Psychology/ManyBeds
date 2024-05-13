@@ -64,7 +64,7 @@
 
     
 
-    <id>tag:manybeds.com,2020-12-01:2020-12-01T21:13:14-05:00</id>
+    <id>tag:localhost:4321,2020-12-01:2020-12-01T21:13:14-05:00</id>
 
     
         
@@ -74,7 +74,7 @@
         
 
         
-            <link href="https://manybeds.com/tags/regression/atom.xml" rel="self" type="application/atom+xml"/>
+            <link href="http://localhost:4321/tags/regression/atom.xml" rel="self" type="application/atom+xml"/>
         
     
         
@@ -84,7 +84,7 @@
         
 
         
-            <link href="https://manybeds.com/tags/regression/" rel="alternate" type="text/html"/>
+            <link href="http://localhost:4321/tags/regression/" rel="alternate" type="text/html"/>
         
     
         
@@ -92,7 +92,7 @@
         
 
         
-            <link href="https://manybeds.com/tags/regression/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="http://localhost:4321/tags/regression/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 
@@ -187,13 +187,13 @@
 </span></span><span class="line"><span class="cl">  <span class="n">init.angle</span> <span class="o">=</span> <span class="m">-50</span><span class="p">,</span> <span class="n">border</span> <span class="o">=</span> <span class="kc">NA</span>
 </span></span><span class="line"><span class="cl"><span class="p">)</span>
 </span></span></code></pre></div><div class="figure">
-<img src="https://manybeds.com/post/2020-12-01-r-rmarkdown/index_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+<img src="/post/2020-12-01-r-rmarkdown/index_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
 <p class="caption"><span id="fig:pie"></span>Figure 1: A fancy pie chart.</p>
 </div>
 ]]></content>
             
 
-            <id>tag:manybeds.com,2020-12-01:2020-12-01T21:13:14-05:00</id>
+            <id>tag:localhost:4321,2020-12-01:2020-12-01T21:13:14-05:00</id>
 
             
                 
@@ -201,7 +201,7 @@
                 
                     
 
-                    <link href="https://manybeds.com/post/2020-12-01-r-rmarkdown/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/post/2020-12-01-r-rmarkdown/" rel="alternate" type="text/html"/>
                 
             
 

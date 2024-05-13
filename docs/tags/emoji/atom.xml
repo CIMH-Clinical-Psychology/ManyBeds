@@ -68,7 +68,7 @@
 
     
 
-    <id>tag:manybeds.com,2023-09-18:2023-09-18T21:32:40-07:00</id>
+    <id>tag:localhost:4321,2023-09-18:2023-09-18T21:32:40-07:00</id>
 
     
         
@@ -78,7 +78,7 @@
         
 
         
-            <link href="https://manybeds.com/tags/emoji/atom.xml" rel="self" type="application/atom+xml"/>
+            <link href="http://localhost:4321/tags/emoji/atom.xml" rel="self" type="application/atom+xml"/>
         
     
         
@@ -88,7 +88,7 @@
         
 
         
-            <link href="https://manybeds.com/tags/emoji/" rel="alternate" type="text/html"/>
+            <link href="http://localhost:4321/tags/emoji/" rel="alternate" type="text/html"/>
         
     
         
@@ -96,7 +96,7 @@
         
 
         
-            <link href="https://manybeds.com/tags/emoji/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="http://localhost:4321/tags/emoji/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 
@@ -191,7 +191,7 @@ SOFTWARE.
 </span></span><span class="line"><span class="cl">}</span></span></code></pre></div>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:32:40-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:32:40-07:00</id>
 
             
                 
@@ -199,7 +199,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/about/emoji-support/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/about/emoji-support/" rel="alternate" type="text/html"/>
                 
             
 
@@ -300,7 +300,7 @@ SOFTWARE.
 </span></span><span class="line"><span class="cl">}</span></span></code></pre></div>]]></content>
             
 
-            <id>tag:manybeds.com,2023-09-18:2023-09-18T21:32:40-07:00</id>
+            <id>tag:localhost:4321,2023-09-18:2023-09-18T21:32:40-07:00</id>
 
             
                 
@@ -308,7 +308,7 @@ SOFTWARE.
                 
                     
 
-                    <link href="https://manybeds.com/content/emoji-support/" rel="alternate" type="text/html"/>
+                    <link href="http://localhost:4321/content/emoji-support/" rel="alternate" type="text/html"/>
                 
             
 
