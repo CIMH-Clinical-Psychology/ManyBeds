@@ -43,7 +43,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="https://cimh-clinical-psychology.github.io/ManyBeds/tags/typesetting/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://localhost:4321/ManyBeds/tags/typesetting/rss.xml" rel="self" type="application/rss+xml"/>
 
         
             <copyright>© 2024 ManyBeds Lead Lab</copyright>
@@ -59,7 +59,7 @@
             <lastBuildDate>Mon, 18 Sep 2023 21:33:03 -0700</lastBuildDate>
         
 
-        <link>https://cimh-clinical-psychology.github.io/ManyBeds/tags/typesetting/</link>
+        <link>http://localhost:4321/ManyBeds/tags/typesetting/</link>
 
         
             <managingEditor>manybeds@gmail.com (Julia Beitner)</managingEditor>
@@ -155,10 +155,10 @@ $$
 $$</p>]]></description>
                 
 
-                <guid  isPermaLink="false" >tag:cimh-clinical-psychology.github.io,2023-09-18:2023-09-18T21:33:03-07:00</guid>
+                <guid  isPermaLink="false" >tag:localhost:4321,2023-09-18:2023-09-18T21:33:03-07:00</guid>
 
                 
-                    <link>https://cimh-clinical-psychology.github.io/ManyBeds/about/math-typesetting/</link>
+                    <link>http://localhost:4321/ManyBeds/about/math-typesetting/</link>
                 
 
                 
@@ -255,10 +255,10 @@ $$
 $$</p>]]></description>
                 
 
-                <guid  isPermaLink="false" >tag:cimh-clinical-psychology.github.io,2023-09-18:2023-09-18T21:33:03-07:00</guid>
+                <guid  isPermaLink="false" >tag:localhost:4321,2023-09-18:2023-09-18T21:33:03-07:00</guid>
 
                 
-                    <link>https://cimh-clinical-psychology.github.io/ManyBeds/content/math-typesetting/</link>
+                    <link>http://localhost:4321/ManyBeds/content/math-typesetting/</link>
                 
 
                 

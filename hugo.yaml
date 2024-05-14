@@ -75,6 +75,9 @@ params:
       email: manybeds@gmail.com
       name: Lead Lab
   paige:
+    color: '#0d6efd' # Bootstrap primary color and theme color for Safari and Windows
+    color_scheme: light # Must be "auto", "dark", or "light"
+   # style: '#paige-content { width: 66ch; }'
     feed:
       atom:
         authors:

@@ -66,7 +66,7 @@
 
     
 
-    <id>tag:cimh-clinical-psychology.github.io,2023-09-24:2023-09-24T21:29:30-07:00</id>
+    <id>tag:localhost:4321,2023-09-24:2023-09-24T21:29:30-07:00</id>
 
     
         
@@ -76,7 +76,7 @@
         
 
         
-            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/tags/link/atom.xml" rel="self" type="application/atom+xml"/>
+            <link href="http://localhost:4321/ManyBeds/tags/link/atom.xml" rel="self" type="application/atom+xml"/>
         
     
         
@@ -86,7 +86,7 @@
         
 
         
-            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/tags/link/" rel="alternate" type="text/html"/>
+            <link href="http://localhost:4321/ManyBeds/tags/link/" rel="alternate" type="text/html"/>
         
     
         
@@ -94,7 +94,7 @@
         
 
         
-            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/tags/link/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="http://localhost:4321/ManyBeds/tags/link/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 
@@ -159,10 +159,10 @@
 
             
                 <content type="html"><![CDATA[<p>It takes you to the home page.</p>
-<p><a href="https://cimh-clinical-psychology.github.io/ManyBeds/about/link/" title="Link">⏎</a></p>]]></content>
+<p><a href="http://localhost:4321/ManyBeds/about/link/" title="Link">⏎</a></p>]]></content>
             
 
-            <id>tag:cimh-clinical-psychology.github.io,2023-09-24:2023-09-24T21:29:30-07:00</id>
+            <id>tag:localhost:4321,2023-09-24:2023-09-24T21:29:30-07:00</id>
 
             
                 
@@ -241,10 +241,10 @@
 
             
                 <content type="html"><![CDATA[<p>It takes you to the home page.</p>
-<p><a href="https://cimh-clinical-psychology.github.io/ManyBeds/content/link/" title="Link">⏎</a></p>]]></content>
+<p><a href="http://localhost:4321/ManyBeds/content/link/" title="Link">⏎</a></p>]]></content>
             
 
-            <id>tag:cimh-clinical-psychology.github.io,2023-09-24:2023-09-24T21:29:30-07:00</id>
+            <id>tag:localhost:4321,2023-09-24:2023-09-24T21:29:30-07:00</id>
 
             
                 

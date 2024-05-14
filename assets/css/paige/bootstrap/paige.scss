@@ -10,3 +10,18 @@
 $primary: {{ $color }};
 
 @import "bootstrap";
+
+// Centering styles
+body {
+  display: flex;
+  //justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh; /* Ensure it takes at least the full height of the viewport */
+  //margin: 0; /* Remove default margin */
+}
+
+#paige-content {
+ // width: 66ch; /* Maintain the specified width */
+//  margin: auto;
+}

@@ -64,7 +64,7 @@
 
     
 
-    <id>https://cimh-clinical-psychology.github.io/ManyBeds/contact/cloud/atom.xml</id>
+    <id>http://localhost:4321/ManyBeds/contact/cloud/atom.xml</id>
 
     
         
@@ -74,7 +74,7 @@
         
 
         
-            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/contact/cloud/atom.xml" rel="self" type="application/atom+xml"/>
+            <link href="http://localhost:4321/ManyBeds/contact/cloud/atom.xml" rel="self" type="application/atom+xml"/>
         
     
         
@@ -84,7 +84,7 @@
         
 
         
-            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/contact/cloud/" rel="alternate" type="text/html"/>
+            <link href="http://localhost:4321/ManyBeds/contact/cloud/" rel="alternate" type="text/html"/>
         
     
         
@@ -92,7 +92,7 @@
         
 
         
-            <link href="https://cimh-clinical-psychology.github.io/ManyBeds/contact/cloud/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="http://localhost:4321/ManyBeds/contact/cloud/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 

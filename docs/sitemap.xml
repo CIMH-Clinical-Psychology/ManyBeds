@@ -2,191 +2,191 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/about/markdown-syntax/</loc>
+    <loc>http://localhost:4321/ManyBeds/about/markdown-syntax/</loc>
     <lastmod>2023-09-18T21:32:52-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/content/markdown-syntax/</loc>
+    <loc>http://localhost:4321/ManyBeds/content/markdown-syntax/</loc>
     <lastmod>2023-09-18T21:32:52-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/about/rich-content/</loc>
+    <loc>http://localhost:4321/ManyBeds/about/rich-content/</loc>
     <lastmod>2023-09-18T21:33:24-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/content/rich-content/</loc>
+    <loc>http://localhost:4321/ManyBeds/content/rich-content/</loc>
     <lastmod>2023-09-18T21:33:24-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/contact/cloud/</loc>
+    <loc>http://localhost:4321/ManyBeds/contact/cloud/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/data_analysis/cloud/</loc>
+    <loc>http://localhost:4321/ManyBeds/data_analysis/cloud/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/data_collection/cloud/</loc>
+    <loc>http://localhost:4321/ManyBeds/data_collection/cloud/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/contact/search/</loc>
+    <loc>http://localhost:4321/ManyBeds/contact/search/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/data_analysis/search/</loc>
+    <loc>http://localhost:4321/ManyBeds/data_analysis/search/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/data_collection/search/</loc>
+    <loc>http://localhost:4321/ManyBeds/data_collection/search/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/about/placeholder-text/</loc>
+    <loc>http://localhost:4321/ManyBeds/about/placeholder-text/</loc>
     <lastmod>2023-09-18T21:33:16-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/content/placeholder-text/</loc>
+    <loc>http://localhost:4321/ManyBeds/content/placeholder-text/</loc>
     <lastmod>2023-09-18T21:33:16-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/about/math-typesetting/</loc>
+    <loc>http://localhost:4321/ManyBeds/about/math-typesetting/</loc>
     <lastmod>2023-09-18T21:33:03-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/content/math-typesetting/</loc>
+    <loc>http://localhost:4321/ManyBeds/content/math-typesetting/</loc>
     <lastmod>2023-09-18T21:33:03-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/about/emoji-support/</loc>
+    <loc>http://localhost:4321/ManyBeds/about/emoji-support/</loc>
     <lastmod>2023-09-18T21:32:40-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/content/emoji-support/</loc>
+    <loc>http://localhost:4321/ManyBeds/content/emoji-support/</loc>
     <lastmod>2023-09-18T21:32:40-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/about/simple-alert/</loc>
+    <loc>http://localhost:4321/ManyBeds/about/simple-alert/</loc>
     <lastmod>2023-09-18T21:33:35-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/content/simple-alert/</loc>
+    <loc>http://localhost:4321/ManyBeds/content/simple-alert/</loc>
     <lastmod>2023-09-18T21:33:35-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/about/complex-alert/</loc>
+    <loc>http://localhost:4321/ManyBeds/about/complex-alert/</loc>
     <lastmod>2023-09-18T21:21:05-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/content/complex-alert/</loc>
+    <loc>http://localhost:4321/ManyBeds/content/complex-alert/</loc>
     <lastmod>2023-09-18T21:21:05-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/about/link/</loc>
+    <loc>http://localhost:4321/ManyBeds/about/link/</loc>
     <lastmod>2023-09-24T21:29:30-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/content/link/</loc>
+    <loc>http://localhost:4321/ManyBeds/content/link/</loc>
     <lastmod>2023-09-24T21:29:30-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/about/video/</loc>
+    <loc>http://localhost:4321/ManyBeds/about/video/</loc>
     <lastmod>2023-09-24T21:29:31-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/content/video/</loc>
+    <loc>http://localhost:4321/ManyBeds/content/video/</loc>
     <lastmod>2023-09-24T21:29:31-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/about/</loc>
+    <loc>http://localhost:4321/ManyBeds/about/</loc>
     <lastmod>2023-09-24T21:29:31-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/authors/</loc>
+    <loc>http://localhost:4321/ManyBeds/authors/</loc>
     <lastmod>2023-09-24T21:29:31-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/categories/</loc>
+    <loc>http://localhost:4321/ManyBeds/categories/</loc>
     <lastmod>2023-09-24T21:29:31-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/categories/content/</loc>
+    <loc>http://localhost:4321/ManyBeds/categories/content/</loc>
     <lastmod>2023-09-24T21:29:31-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/content/</loc>
+    <loc>http://localhost:4321/ManyBeds/content/</loc>
     <lastmod>2023-09-24T21:29:31-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/</loc>
+    <loc>http://localhost:4321/ManyBeds/</loc>
     <lastmod>2023-09-24T21:29:31-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/categories/paige/</loc>
+    <loc>http://localhost:4321/ManyBeds/categories/paige/</loc>
     <lastmod>2023-09-24T21:29:31-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/</loc>
     <lastmod>2023-09-24T21:29:31-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/video/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/video/</loc>
     <lastmod>2023-09-24T21:29:31-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/authors/will-faught/</loc>
+    <loc>http://localhost:4321/ManyBeds/authors/will-faught/</loc>
     <lastmod>2023-09-24T21:29:31-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/link/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/link/</loc>
     <lastmod>2023-09-24T21:29:30-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/alerts/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/alerts/</loc>
     <lastmod>2023-09-18T21:33:35-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/privacy/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/privacy/</loc>
     <lastmod>2023-09-18T21:33:24-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/shortcodes/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/shortcodes/</loc>
     <lastmod>2023-09-18T21:33:24-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/authors/lead-lab/</loc>
+    <loc>http://localhost:4321/ManyBeds/authors/lead-lab/</loc>
     <lastmod>2023-09-18T21:33:16-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/markdown/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/markdown/</loc>
     <lastmod>2023-09-18T21:33:16-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/text/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/text/</loc>
     <lastmod>2023-09-18T21:33:16-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/katex/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/katex/</loc>
     <lastmod>2023-09-18T21:33:03-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/math/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/math/</loc>
     <lastmod>2023-09-18T21:33:03-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/typesetting/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/typesetting/</loc>
     <lastmod>2023-09-18T21:33:03-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/css/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/css/</loc>
     <lastmod>2023-09-18T21:32:52-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/html/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/html/</loc>
     <lastmod>2023-09-18T21:32:52-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/emoji/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/emoji/</loc>
     <lastmod>2023-09-18T21:32:40-07:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>http://localhost:4321/ManyBeds/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/plot/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/post/</loc>
+    <loc>http://localhost:4321/ManyBeds/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/categories/r/</loc>
+    <loc>http://localhost:4321/ManyBeds/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/r-markdown/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/regression/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/contact/cloud/apple/</loc>
+    <loc>http://localhost:4321/ManyBeds/contact/cloud/apple/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/data_analysis/cloud/apple/</loc>
+    <loc>http://localhost:4321/ManyBeds/data_analysis/cloud/apple/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/data_collection/cloud/apple/</loc>
+    <loc>http://localhost:4321/ManyBeds/data_collection/cloud/apple/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/contact/cloud/banana/</loc>
+    <loc>http://localhost:4321/ManyBeds/contact/cloud/banana/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/data_analysis/cloud/banana/</loc>
+    <loc>http://localhost:4321/ManyBeds/data_analysis/cloud/banana/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/data_collection/cloud/banana/</loc>
+    <loc>http://localhost:4321/ManyBeds/data_collection/cloud/banana/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/contact/cloud/cantaloupe/</loc>
+    <loc>http://localhost:4321/ManyBeds/contact/cloud/cantaloupe/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/data_analysis/cloud/cantaloupe/</loc>
+    <loc>http://localhost:4321/ManyBeds/data_analysis/cloud/cantaloupe/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/data_collection/cloud/cantaloupe/</loc>
+    <loc>http://localhost:4321/ManyBeds/data_collection/cloud/cantaloupe/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/cloud/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/cloud/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/categories/layouts/</loc>
+    <loc>http://localhost:4321/ManyBeds/categories/layouts/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/contact/</loc>
+    <loc>http://localhost:4321/ManyBeds/contact/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/data_analysis/</loc>
+    <loc>http://localhost:4321/ManyBeds/data_analysis/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/data_collection/</loc>
+    <loc>http://localhost:4321/ManyBeds/data_collection/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/search/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/search/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/search/</loc>
+    <loc>http://localhost:4321/ManyBeds/search/</loc>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/series/</loc>
+    <loc>http://localhost:4321/ManyBeds/series/</loc>
   </url>
 </urlset>

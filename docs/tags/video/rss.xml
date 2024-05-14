@@ -43,7 +43,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="https://cimh-clinical-psychology.github.io/ManyBeds/tags/video/rss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://localhost:4321/ManyBeds/tags/video/rss.xml" rel="self" type="application/rss+xml"/>
 
         
             <copyright>© 2024 ManyBeds Lead Lab</copyright>
@@ -59,7 +59,7 @@
             <lastBuildDate>Sun, 24 Sep 2023 21:29:31 -0700</lastBuildDate>
         
 
-        <link>https://cimh-clinical-psychology.github.io/ManyBeds/tags/video/</link>
+        <link>http://localhost:4321/ManyBeds/tags/video/</link>
 
         
             <managingEditor>manybeds@gmail.com (Julia Beitner)</managingEditor>
@@ -202,10 +202,10 @@
 ]]></description>
                 
 
-                <guid  isPermaLink="false" >tag:cimh-clinical-psychology.github.io,2023-09-24:2023-09-24T21:29:31-07:00</guid>
+                <guid  isPermaLink="false" >tag:localhost:4321,2023-09-24:2023-09-24T21:29:31-07:00</guid>
 
                 
-                    <link>https://cimh-clinical-psychology.github.io/ManyBeds/about/video/</link>
+                    <link>http://localhost:4321/ManyBeds/about/video/</link>
                 
 
                 
@@ -349,10 +349,10 @@
 ]]></description>
                 
 
-                <guid  isPermaLink="false" >tag:cimh-clinical-psychology.github.io,2023-09-24:2023-09-24T21:29:31-07:00</guid>
+                <guid  isPermaLink="false" >tag:localhost:4321,2023-09-24:2023-09-24T21:29:31-07:00</guid>
 
                 
-                    <link>https://cimh-clinical-psychology.github.io/ManyBeds/content/video/</link>
+                    <link>http://localhost:4321/ManyBeds/content/video/</link>
                 
 
                 
