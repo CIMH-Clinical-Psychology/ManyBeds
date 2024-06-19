@@ -3055,10 +3055,10 @@ input[type="button"].btn-block {
 
 .navbar-brand {
   display: inline-block;
-  padding-top: 0.35rem;
-  padding-bottom: 0.35rem;
+  padding-top: 0.125rem;
+  padding-bottom: 0.125rem;
   margin-right: 1rem;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   line-height: inherit;
   white-space: nowrap; }
   .navbar-brand:hover, .navbar-brand:focus {
@@ -7230,13 +7230,13 @@ a.text-dark:hover, a.text-dark:focus {
  **************************************************/
 html {
   font-family: "Roboto", sans-serif;
-  font-size: 13.86px;
+  font-size: 12.32px;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.65; }
 
 @media screen and (min-width: 58em) {
   html {
-    font-size: 18px; } }
+    font-size: 16px; } }
 
 body {
   font-family: inherit;
@@ -8182,7 +8182,7 @@ a.summary-link {
   height: 70px;
   background: #003E65;
   box-shadow: 0 2px 40px rgba(0, 0, 0, 0.1);
-  font-size: 13.86px;
+  font-size: 17px;
   padding: 0 1rem; }
   .navbar .nav-item {
     position: relative; }
@@ -8206,7 +8206,7 @@ a.summary-link {
         font-weight: bold !important;
         color: #85CEE4 !important; }
   .navbar .dropdown-menu {
-    font-size: 13.86px; }
+    font-size: 12.32px; }
   .navbar .dropdown-item.active,
   .navbar .dropdown-item-active {
     font-weight: bold;

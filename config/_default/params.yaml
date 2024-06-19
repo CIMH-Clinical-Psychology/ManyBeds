@@ -10,8 +10,8 @@ appearance:
   theme_day: custom_theme #minimal
   theme_night: custom_theme
   font: minimal
-  font_size: M
-  default_appearance: "light" # Set default appearance to light mode
+  font_size: S
+  default_appearance: "Light" # Set default appearance to light mode
 
 # SEO
 
@@ -39,7 +39,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: false
+    show_day_night: true
     show_search: false
     highlight_active_link: true
 
@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/CIMH-Clinical-Psychology/ManyBeds'
     content_dir: content
     branch: main
   avatar:
