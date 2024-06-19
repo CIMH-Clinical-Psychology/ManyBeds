@@ -56,8 +56,8 @@ The information contained herein is compiled to the best of our knowledge. Howev
 If additional information is made accessible by linking to other servers, ZI also excludes any liability.
 
 
-**Notice on all links on the website www.XYZ.de**
+**Notice on all links on the website https://cimh-clinical-psychology.github.io/ManyBeds/**
 
-On the pages of www.XYZ.de, you will find numerous links (= cross-references) to third-party pages. These are marked as such. When these links are activated, a new window opens, and the user is directed to the third-party provider’s offer.
+On the pages of https://cimh-clinical-psychology.github.io/ManyBeds/, you will find numerous links (= cross-references) to third-party pages. These are marked as such. When these links are activated, a new window opens, and the user is directed to the third-party provider’s offer.
 
 For direct or indirect references to external websites that lie outside the responsibility of ZI, a liability obligation would only come into force in the event that ZI had knowledge of the content and it was technically possible and reasonable for it to prevent the use of illegal content. ZI explicitly declares that at the time the links were set, the corresponding linked pages were free of illegal content. It has no influence on the current and future design and content of the linked/connected pages of these third-party providers. Therefore, it explicitly distances itself from all content of all linked/connected pages that were changed after the link was set.
