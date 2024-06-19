@@ -1,0 +1,41 @@
+/* Set Bootstrap variables */
+
+// Set colors.
+$primary: $sta-primary;
+$text-muted: rgba(0, 0, 0, 0.54);
+
+// Container widths
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  // wider default: 1140 -> 1290
+  xl: 1290px,
+);
+$navbar-toggler-padding-x: 0;
+$navbar-toggler-font-size: 18px;
+$navbar-brand-font-size: 1.2rem;
+$navbar-light-color: $sta-menu-text;
+$navbar-light-active-color: $sta-menu-text-active;
+$navbar-light-brand-color: $sta-menu-title;
+$navbar-light-brand-hover-color: $navbar-light-active-color;
+$navbar-light-toggler-border-color: transparent;
+// Define variables for shadow colors if needed
+$navbar-shadow-color: rgba(0, 0, 0, 0.1); // Light shadow color
+
+// Apply the shadow to the navbar
+.navbar-light {
+  box-shadow: 0 2px 4px $navbar-shadow-color; // Light shadow effect
+}
+
+// Larger than default 20px slider prev/next arrows
+// Currently, also requires changing left/right margin offsets in slider.html
+$carousel-control-icon-width: 4rem;
+$carousel-control-width: 6rem;
+
+.markdown-wrapper {
+  max-width: 2000px; /* Adjust the maximum width as needed */
+  margin: 0 auto; /* Center the content */
+  padding: 0 20px; /* Add some padding for better readability */
+  text-align: justify; /* Justify the text */
+}

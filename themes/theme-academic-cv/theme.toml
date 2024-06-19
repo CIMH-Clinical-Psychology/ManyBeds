@@ -1,0 +1,76 @@
+name = "Academic"
+license = "MIT"
+licenselink = "https://github.com/HugoBlox/theme-academic-cv/blob/main/LICENSE.md"
+description = "Use the no-code website framework to easily build your site. Choose from 50+ widgets and deploy with one click! Fully personalize your site with themes, plugins, and language packs."
+homepage = "https://github.com/HugoBlox/theme-academic-cv"
+demosite = "https://hugoblox.com/templates/"
+tags = ["widgets",
+        "resume",
+        "portfolio",
+        "responsive",
+        "clean",
+        "personal",
+        "company",
+        "blog",
+        "minimal",
+        "light",
+        "dark",
+        "multilingual",
+        "documentation",
+        "landing page",
+        "projects",
+        "single page",
+        "contact form",
+        "mobile",
+        "gallery",
+        "search",
+        "presentation",
+        "simple",
+        "minimalist",
+        "starter",
+        "modern",
+        "one page",
+        "customizable",
+        "technical",
+        "product",
+        "slide"
+        ]
+features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
+            "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
+
+[author]
+  name = "George Cushen"
+  homepage = "https://georgecushen.com"
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""
+
+
+[light]
+primary = "#003E65"           # Change this to your desired primary color
+background = "rgb(255, 255, 255)"
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+link = "pink"
+link_hover = "#ff5733"
+link_decoration = "inherit"
+menu_primary = "#ffffff"
+menu_text = "#333333"
+menu_text_active = "#ff5733"
+menu_title = "#000000"
+
+[dark]
+primary = "#003E65"           # Change this to your desired primary color
+background = "hsla(231, 15%, 16%, 1)"
+home_section_odd = "hsla(231, 15%, 18%, 1)"
+home_section_even = "hsla(231, 15%, 16%, 1)"
+link = "#ff5733"
+link_hover = "#ff5733"
+link_decoration = "inherit"
+menu_primary = "rgb(40, 42, 54)"
+menu_text = "white"
+menu_text_active = "rgba(255, 255, 255, 0.8)"
+menu_title = "white"

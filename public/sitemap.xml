@@ -2,191 +2,156 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/about/markdown-syntax/</loc>
-    <lastmod>2023-09-18T21:32:52-07:00</lastmod>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/content/markdown-syntax/</loc>
-    <lastmod>2023-09-18T21:32:52-07:00</lastmod>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/about/rich-content/</loc>
-    <lastmod>2023-09-18T21:33:24-07:00</lastmod>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/</loc>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/content/rich-content/</loc>
-    <lastmod>2023-09-18T21:33:24-07:00</lastmod>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/analysis/</loc>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/contact/cloud/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/collection/</loc>
+    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/data_analysis/cloud/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/post/blog-with-jupyter/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/data_collection/cloud/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/post/</loc>
+    <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/contact/search/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/data_analysis/search/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/data_collection/search/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/about/placeholder-text/</loc>
-    <lastmod>2023-09-18T21:33:16-07:00</lastmod>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/content/placeholder-text/</loc>
-    <lastmod>2023-09-18T21:33:16-07:00</lastmod>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/about/math-typesetting/</loc>
-    <lastmod>2023-09-18T21:33:03-07:00</lastmod>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/content/math-typesetting/</loc>
-    <lastmod>2023-09-18T21:33:03-07:00</lastmod>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/about/emoji-support/</loc>
-    <lastmod>2023-09-18T21:32:40-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/content/emoji-support/</loc>
-    <lastmod>2023-09-18T21:32:40-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/about/simple-alert/</loc>
-    <lastmod>2023-09-18T21:33:35-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/content/simple-alert/</loc>
-    <lastmod>2023-09-18T21:33:35-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/about/complex-alert/</loc>
-    <lastmod>2023-09-18T21:21:05-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/content/complex-alert/</loc>
-    <lastmod>2023-09-18T21:21:05-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/about/link/</loc>
-    <lastmod>2023-09-24T21:29:30-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/content/link/</loc>
-    <lastmod>2023-09-24T21:29:30-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/about/video/</loc>
-    <lastmod>2023-09-24T21:29:31-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/content/video/</loc>
-    <lastmod>2023-09-24T21:29:31-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/about/</loc>
-    <lastmod>2023-09-24T21:29:31-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/authors/</loc>
-    <lastmod>2023-09-24T21:29:31-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/</loc>
-    <lastmod>2023-09-24T21:29:31-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/content/</loc>
-    <lastmod>2023-09-24T21:29:31-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/content/</loc>
-    <lastmod>2023-09-24T21:29:31-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/paige/</loc>
-    <lastmod>2023-09-24T21:29:31-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/</loc>
-    <lastmod>2023-09-24T21:29:31-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2023-09-24T21:29:31-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/video/</loc>
-    <lastmod>2023-09-24T21:29:31-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/authors/will-faught/</loc>
-    <lastmod>2023-09-24T21:29:31-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/link/</loc>
-    <lastmod>2023-09-24T21:29:30-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/alerts/</loc>
-    <lastmod>2023-09-18T21:33:35-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/privacy/</loc>
-    <lastmod>2023-09-18T21:33:24-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/shortcodes/</loc>
-    <lastmod>2023-09-18T21:33:24-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/authors/lead-lab/</loc>
-    <lastmod>2023-09-18T21:33:16-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/markdown/</loc>
-    <lastmod>2023-09-18T21:33:16-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/text/</loc>
-    <lastmod>2023-09-18T21:33:16-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/katex/</loc>
-    <lastmod>2023-09-18T21:33:03-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/math/</loc>
-    <lastmod>2023-09-18T21:33:03-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/typesetting/</loc>
-    <lastmod>2023-09-18T21:33:03-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/css/</loc>
-    <lastmod>2023-09-18T21:32:52-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/html/</loc>
-    <lastmod>2023-09-18T21:32:52-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/emoji/</loc>
-    <lastmod>2023-09-18T21:32:40-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/plot/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tag/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/post/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/category/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/categories/r/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tag/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/r-markdown/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/contact/cloud/apple/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/data_analysis/cloud/apple/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/publication-type/article/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/data_collection/cloud/apple/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/contact/cloud/banana/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/data_analysis/cloud/banana/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tag/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/data_collection/cloud/banana/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/contact/cloud/cantaloupe/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/data_analysis/cloud/cantaloupe/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/data_collection/cloud/cantaloupe/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/cloud/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/categories/layouts/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/contact/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/data_analysis/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/data_collection/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/search/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/search/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/publication-type/article-journal/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/series/</loc>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/publication-type/paper-conference/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>

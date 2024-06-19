@@ -1,0 +1,95 @@
+/*************************************************
+ *  People widget
+ **************************************************/
+
+.people-widget {
+  font-size: 0.8rem;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.people-widget .portrait-title h2 {
+  font-size: 1rem;
+}
+
+.people-widget .portrait-title h3 {
+  font-size: 0.7rem;
+}
+
+
+.people-widget .avatar {
+  width: 80%;
+  max-width: 125px;
+  height: auto;
+  margin: 0 auto;
+  margin-top: 0.5rem;
+  margin-bottom: -1rem;
+}
+
+.people-widget .card-title {
+  font-size: 1.2rem;
+}
+
+.people-widget .card {
+  margin: 1rem; /* Adds a 1rem margin around the card to space it from other elements */
+  border: 1px solid #ddd; /* Adds a light grey border around the card */
+  border-radius: 0.5rem; /* Adds rounded corners */
+  padding: 0.75rem; /* Adds padding inside the card */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around; /* Ensure content is spaced out */
+  height: 100%; /* Make all cards the same height */
+  width: 100%; /* Make all cards the same width */
+}
+
+/* New CSS for controlling margins around the role */
+.people-widget .portrait-title .role {
+  margin-top: -0.2rem; /* Add space above the role */
+  margin-bottom: 0.85rem; /* Add space below the role */
+}
+
+/* Container styles for the social icons */
+.people-widget .social-icons {
+  display: flex;
+  justify-content: center; /* Center the icons */
+  margin-top: 0.5rem; /* Add some space above the social icons */
+}
+
+/* Individual anchor link styles */
+.people-widget .social-icons a {
+  color: inherit; /* Inherit color from parent */
+  text-decoration: none; /* Remove underline */
+}
+
+/* More specific selector for the icons */
+.network-icon__item {
+  font-size: 0.9rem; /* Increase font size of the icons */
+}
+
+/* Hover effect for the icons */
+.people-widget .social-icons a:hover .network-icon__item {
+  color: #003E65; /* Change color on hover */
+}
+
+
+
+.people-widget .people-person {
+  margin-bottom: 2rem; /* Increase space between people entries */
+}
+
+@media (min-width: 576px) {
+  .people-widget .col-sm-auto {
+    width: 30%;
+    display: flex;
+  }
+}
+
+@media (min-width: 992px) {
+  .people-widget .col-sm-auto {
+    width: 20%;
+    display: flex;
+  }
+}
