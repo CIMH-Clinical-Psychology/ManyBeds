@@ -11,7 +11,7 @@ appearance:
   theme_night: custom_theme
   font: minimal
   font_size: S
-  default_appearance: "Light" # Set default appearance to light mode
+  default_appearance: light # Set default appearance to light mode
 
 # SEO
 

@@ -10,9 +10,7 @@ role: Evaluating replicability of auditory targeted memory reactivation
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
-status:
-  icon: ☕️
+  link: /#contact️
 superuser: true
 user_groups: ['Administration']
 title: ManyBeds
@@ -31,7 +29,8 @@ The ManyBeds project is a Big Team Science study (Baumgartner et al., 2023; Cole
 **Join one of our information events to learn more!**  
 8th of July 2024, 10:00 CEST and 18:00 CEST  
 Sign up here  
-Or check out the recording and slides of the last event!
+Or check out the recording and slides of the last event!  
+
 
 **You already know you want to be a part of ManyBeds?**  
 Sign up here! (Button/Link)  

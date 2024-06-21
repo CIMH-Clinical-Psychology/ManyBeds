@@ -304,7 +304,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-548173962&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-943158672&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -314,7 +314,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-548173962&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-943158672&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -764,8 +764,8 @@ Mail: &lt;a href=&#34;mailto:ManyBeds@zi-mannheim.de&#34;&gt;ManyBeds@zi-mannhei
 &lt;p&gt;The contents of the ZI website provide free information. If they refer to medical topics, they do not constitute advice to the individual user and are not medical professional information; they cannot replace the advice of a doctor, psychologist, or pharmacist.&lt;/p&gt;
 &lt;p&gt;The information contained herein is compiled to the best of our knowledge. However, no guarantee can be given for the completeness, accuracy, and timeliness of the information. Therefore, the information is legally non-binding. ZI cannot be held liable for damages in connection with the use of this content.&lt;/p&gt;
 &lt;p&gt;If additional information is made accessible by linking to other servers, ZI also excludes any liability.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Notice on all links on the website &lt;a href=&#34;https://www.XYZ.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.XYZ.de&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;On the pages of &lt;a href=&#34;https://www.XYZ.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.XYZ.de&lt;/a&gt;, you will find numerous links (= cross-references) to third-party pages. These are marked as such. When these links are activated, a new window opens, and the user is directed to the third-party provider’s offer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notice on all links on the website &lt;a href=&#34;https://cimh-clinical-psychology.github.io/ManyBeds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cimh-clinical-psychology.github.io/ManyBeds/&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On the pages of &lt;a href=&#34;https://cimh-clinical-psychology.github.io/ManyBeds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cimh-clinical-psychology.github.io/ManyBeds/&lt;/a&gt;, you will find numerous links (= cross-references) to third-party pages. These are marked as such. When these links are activated, a new window opens, and the user is directed to the third-party provider’s offer.&lt;/p&gt;
 &lt;p&gt;For direct or indirect references to external websites that lie outside the responsibility of ZI, a liability obligation would only come into force in the event that ZI had knowledge of the content and it was technically possible and reasonable for it to prevent the use of illegal content. ZI explicitly declares that at the time the links were set, the corresponding linked pages were free of illegal content. It has no influence on the current and future design and content of the linked/connected pages of these third-party providers. Therefore, it explicitly distances itself from all content of all linked/connected pages that were changed after the link was set.&lt;/p&gt;
 </description>
     </item>

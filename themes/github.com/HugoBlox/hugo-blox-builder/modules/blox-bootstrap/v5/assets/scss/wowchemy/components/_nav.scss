@@ -34,7 +34,7 @@
   background: $sta-menu-primary;
  // box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
   box-shadow: 0 2px 40px $navbar-shadow-color;
-  font-size: 17px;// #{$sta-font-size-small}px;
+  font-size: 16px;// #{$sta-font-size-small}px;
   
 
   // Remove Bootstrap's navbar v-padding and assign v-padding to logo separately to maximise logo size.
@@ -74,7 +74,7 @@
 
       &.active {
         font-weight: bold !important;
-        color: $sta-menu-text-active !important;
+        color: $sta-menu-text !important; // $sta-menu-text-active !important;
       }
     }
   }
