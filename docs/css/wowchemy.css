@@ -9523,17 +9523,17 @@ a.hero-cta-alt:hover {
   /* Text color */ }
 
 .wg-hero .btn-primary:action {
-  background-color: #006960;
+  background-color: #006960 !important;
   /* Primary button color */
-  border-color: #006960;
-  color: white;
+  border-color: #006960 !important;
+  color: white !important;
   /* Text color */ }
 
 .wg-hero .btn-secondary:action {
-  background-color: #70305A;
+  background-color: #70305A !important;
   /* Secondary button color */
-  border-color: #70305A;
-  color: white;
+  border-color: #70305A !important;
+  color: white !important;
   /* Text color */ }
 
 .wg-hero .btn-lg, .wg-hero .btn-group-lg > .btn {

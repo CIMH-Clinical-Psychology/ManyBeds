@@ -1,6 +1,6 @@
 ---
 bio: ManyBeds - Evaluating replicability of auditory targeted memory reactivation.
-first_name: 
+first_name:
 highlight_name: true
 interests:
 last_name: 
@@ -26,15 +26,14 @@ In a collaborative effort, EEG and behavioral data of 600 participants will be c
 The ManyBeds project is a Big Team Science study (Baumgartner et al., 2023; Coles et al., 2022), utilizing multi-site data collection (Pavlov et al., 2021), a many analysts approach (Botvinik-Nezer et al., 2020) including round-robin feedback (Silberzahn et al., 2018; Hoogeven et al., 2022) and methods of open, transparent science practices (Gilmore et al., 2017; Koch & Jones, 2016). 
 {style="text-align: justify;"}
 
-**Join one of our information events to learn more!**  
-8th of July 2024, 10:00 CEST and 18:00 CEST  
-Sign up here  
-Or check out the recording and slides of the last event!  
+**Check out the recording of our information event to learn more!**  
+Here is the **[link to the recording](https://cloud.zi-mannheim.de/index.php/s/ocsnBysM86SCHtb)**, the password to access the file is <u>ManyBeds1234</u> .  
+The slides you can find **[here](/ManyBeds/uploads/ManyBeds_2024_infoevent_slides.pdf)**.   
 
 
 **You already know you want to be a part of ManyBeds?**  
-Sign up here! (Button/Link)  
-Note that application closes on 31st of July 2024. 
+Sign up **[here](link)**!  
+*Application closes on 31<sup>st</sup> of July 2024.*  
 
 
 

@@ -33,14 +33,14 @@ sections:
         
         **Hypotheses**  
         Analysis teams will plan their analyses and report their results with regard to the following hypotheses. Results will be submitted using a standardized template including binary decisions, key statistical parameters, and standardized effect sizes.
-        Subject to specification / preliminary
         
         *Coming soon!*  
+        
         
         **What’s the next step?**  
         Questions? Ask us! ManyBeds@zi-mannheim.de
         
-        Want to join? Sign up here! (Button/Link to RedCap survey)  
+        ### Want to join? Sign up <u>[here](link)</u>! 
         *Note that application closes on 31st of July 2024*. 
 
 ---

@@ -74,21 +74,47 @@ sections:
       date_end: "2024-06-01"
       date_start: ""
       description: |2-
-          Interested labs and analysts can now sign up!  
-          See here xxx  
-          Sign up deadline 31st of July 2024
+          Interested labs and analysts can now sign up **[here](link)**!  
+          Application closes on 31<sup>st</sup> of July 2024.
       location:
       now: true
       title: Open call for participation
     - company:
       company_logo:
       company_url: ""
-      date_end: "2024-07-31"
+      date_end: "2024-09-01"
       date_start: ""
-      description: Sign up here
+      description: Analysis teams start the early phase of planning their analyses in fall 2024.  
       location: 
       now: false
-      title: Sign up deadline 31st of July 2024
+      title: Planning of analyses
+    - company:
+      company_logo:
+      company_url: ""
+      date_end: ""
+      date_start: "2025-01-01"
+      description: The first data collection labs start.
+      location: 
+      now: false
+      title: Begin of data collection
+    - company:
+      company_logo:
+      company_url: ""
+      date_end: "2025-10-01"
+      date_start: "2025-07-01"
+      description: Analyis teams finalize their planned analyses, receive and provide feedback, and preregister. 
+      location: 
+      now: false
+      title: Round-robin feedback and preregistration of analyses
+    - company:
+      company_logo:
+      company_url: ""
+      date_end: "2026-09-01"
+      date_start: "2026-06-01"
+      description: Upon successful preregistration and finished data collection, analyses teams receive the exploration dataset, run their analyses, and submit their findings. 
+      location: 
+      now: false
+      title: Analysis teams receive data and submit their results      
   design:
     columns: "2"
 - block: markdown

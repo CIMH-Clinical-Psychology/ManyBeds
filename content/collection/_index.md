@@ -34,8 +34,8 @@ sections:
         **What’s the next step?**  
         Questions? Ask us! ManyBeds@zi-mannheim.de
         
-        Want to join? Sign up here! (Button/Link to RedCap survey)  
-        Application closes on *31st of July 2024*. 
+        ### Want to join? Sign up <u>[here](link)</u>!   
+        *Note that application closes on 31<sup>st</sup> of July 2024*. 
 
 
 title: "Data collection"
