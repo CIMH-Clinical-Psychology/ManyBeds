@@ -59,7 +59,7 @@ features = ["page builder", "widgets", "themes", "search", "research publication
   link_decoration = "inherit"
   menu_primary = "#003E65"
   menu_text = "#ffffff"
-  menu_text_active = "#85CEE4"
+  menu_text_active = "#ffffff"
   menu_title = "#ffffff"
 
 
