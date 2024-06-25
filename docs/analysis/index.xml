@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Analysis | ManyBeds</title>
-    <link>https://cimh-clinical-psychology.github.io/ManyBeds/analysis/</link>
-      <atom:link href="https://cimh-clinical-psychology.github.io/ManyBeds/analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/ManyBeds/analysis/</link>
+      <atom:link href="http://localhost:4321/ManyBeds/analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Analysis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cimh-clinical-psychology.github.io/ManyBeds/media/icon_hu0120e2241f20ca7584dc70f7e940b65f_66514_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/ManyBeds/media/icon_hu0120e2241f20ca7584dc70f7e940b65f_66514_512x512_fill_lanczos_center_3.png</url>
       <title>Analysis</title>
-      <link>https://cimh-clinical-psychology.github.io/ManyBeds/analysis/</link>
+      <link>http://localhost:4321/ManyBeds/analysis/</link>
     </image>
     
   </channel>

@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/</loc>
+    <loc>http://localhost:4321/ManyBeds/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/analysis/</loc>
+    <loc>http://localhost:4321/ManyBeds/analysis/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/collection/</loc>
+    <loc>http://localhost:4321/ManyBeds/collection/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/terms/</loc>
+    <loc>http://localhost:4321/ManyBeds/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/privacy/</loc>
+    <loc>http://localhost:4321/ManyBeds/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/categories/</loc>
+    <loc>http://localhost:4321/ManyBeds/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/publication_types/</loc>
+    <loc>http://localhost:4321/ManyBeds/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cimh-clinical-psychology.github.io/ManyBeds/tags/</loc>
+    <loc>http://localhost:4321/ManyBeds/tags/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

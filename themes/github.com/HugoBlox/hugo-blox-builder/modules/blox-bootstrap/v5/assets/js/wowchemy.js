@@ -313,10 +313,10 @@ if (linkLight && linkDark && linkAuto) {
 // Media Query events.
 // Live update of day/night mode on system preferences update (no refresh required).
 // Note: since we listen only for *dark* events, we won't detect other scheme changes such as light to no-preference.
-const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
-darkModeMediaQuery.addEventListener('change', (event) => {
-  onMediaQueryListEvent(event);
-});
+//const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+//darkModeMediaQuery.addEventListener('change', (event) => {
+//  onMediaQueryListEvent(event);
+//});
 
 // Code block copy button
 document.querySelectorAll('pre > code').forEach((codeblock) => {

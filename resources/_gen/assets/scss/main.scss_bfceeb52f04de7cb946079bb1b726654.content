@@ -9519,14 +9519,14 @@ a.hero-cta-alt:hover {
   color: black;
   /* Text color */ }
 
-.wg-hero .btn-primary:action {
+.wg-hero .btn-primary:active {
   background-color: #006960 !important;
   /* Primary button color */
   border-color: #006960 !important;
   color: white !important;
   /* Text color */ }
 
-.wg-hero .btn-secondary:action {
+.wg-hero .btn-secondary:active {
   background-color: #70305A !important;
   /* Secondary button color */
   border-color: #70305A !important;
@@ -9857,10 +9857,6 @@ body.dark,
 .dark a.badge:focus,
 .dark a.badge:hover {
   color: rgba(255, 255, 255, 0.68); }
-
-.dark .btn-primary,
-.dark .btn.btn-primary.active {
-  color: initial; }
 
 .dark .docs-sidebar .nav > li:not(.active) > a {
   color: #f8f8f2;

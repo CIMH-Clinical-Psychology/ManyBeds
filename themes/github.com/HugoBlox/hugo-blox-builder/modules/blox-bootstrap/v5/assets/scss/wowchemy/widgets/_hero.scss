@@ -58,6 +58,7 @@
   color: $sta-primary-dark;
 }
 
+
 a.hero-cta-alt {
   display: inline-block;
   position: relative;
@@ -115,13 +116,13 @@ a.hero-cta-alt:hover {
   color: black; /* Text color */
 }
 
-.wg-hero .btn-primary:action {
+.wg-hero .btn-primary:active {
   background-color: #006960 !important; /* Primary button color */
   border-color: #006960 !important;
   color: white !important; /* Text color */
 }
 
-.wg-hero .btn-secondary:action {
+.wg-hero .btn-secondary:active {
   background-color: #70305A !important; /* Secondary button color */
   border-color: #70305A !important;
   color: white !important; /* Text color */
