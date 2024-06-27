@@ -74,7 +74,7 @@ sections:
       date_end: "2024-06-01"
       date_start: ""
       description: |2-
-          Interested labs and analysts can now sign up **[here](link)**!  
+          Interested labs and analysts can now sign up **[here](https://redcap.link/ManyBeds)**!  
           Application closes on 31<sup>st</sup> of July 2024.
       location:
       now: true

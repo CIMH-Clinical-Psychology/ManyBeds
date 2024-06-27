@@ -7357,13 +7357,13 @@ h6 {
 
 a,
 h3.article-title a:hover {
-  color: #70305A;
+  color: #389ACC;
   text-decoration: none;
   transition: color 0.6s ease; }
 
 a:hover,
 a:focus {
-  color: #E8326D; }
+  color: #85CEE4; }
 
 .dark a,
 .dark h3.article-title a:hover {
@@ -7638,7 +7638,7 @@ div.alert a {
   word-wrap: break-word;
   word-break: break-word; }
   .article-style a {
-    text-decoration: inherit; }
+    text-decoration: #70305A; }
   .article-style img,
   .article-style video {
     margin-left: auto;
@@ -9027,7 +9027,7 @@ html[dir='rtl'] body {
   color: #000; }
 
 .home-section.light a {
-  color: #70305A; }
+  color: #389ACC; }
 
 .home-section.dark a {
   color: #bbdefb; }
@@ -9860,7 +9860,7 @@ body.dark,
 
 .dark .docs-sidebar .nav > li:not(.active) > a {
   color: #f8f8f2;
-  background: #23252f; }
+  background: #70305A; }
 
 div.mermaid {
   width: 100%;
