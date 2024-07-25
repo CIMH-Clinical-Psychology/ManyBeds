@@ -75,7 +75,7 @@ sections:
       date_start: ""
       description: |2-
           Interested labs and analysts can now sign up **[here](https://redcap.link/ManyBeds)**!  
-          Application closes on 31<sup>st</sup> of July 2024.
+          Application closes on 11<sup>th</sup> of August 2024.
       location:
       now: true
       title: Open call for participation

@@ -33,7 +33,7 @@ The slides you can find **[here](/ManyBeds/uploads/ManyBeds_2024_infoevent_slide
 
 **You already know you want to be a part of ManyBeds?**  
 Sign up **[here](https://redcap.link/ManyBeds)**!  
-*Application closes on 31<sup>st</sup> of July 2024.*  
+*Application closes on 11<sup>th</sup> of August 2024.*  
 
 
 

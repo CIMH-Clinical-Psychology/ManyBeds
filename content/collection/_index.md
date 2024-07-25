@@ -35,7 +35,7 @@ sections:
         Questions? Ask us! ManyBeds@zi-mannheim.de
         
         ### Want to join? Sign up <u>[here](https://redcap.link/ManyBeds)</u>!   
-        *Note that application closes on 31<sup>st</sup> of July 2024*. 
+        *Note that application closes on 11<sup>th</sup> of August 2024*. 
 
 
 title: "Data collection"
