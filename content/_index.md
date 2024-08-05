@@ -75,7 +75,7 @@ sections:
       date_start: ""
       description: |2-
           Interested labs and analysts can now sign up **[here](https://redcap.link/ManyBeds)**!  
-          Application closes on 11<sup>th</sup> of August 2024.
+          Application closes on 31<sup>st</sup> of August 2024.
       location:
       now: true
       title: Open call for participation
@@ -102,7 +102,7 @@ sections:
       company_url: ""
       date_end: "2025-10-01"
       date_start: "2025-07-01"
-      description: Analyis teams finalize their planned analyses, receive and provide feedback, and preregister. 
+      description: Analysis teams finalize their planned analyses, receive and provide feedback, and preregister. 
       location: 
       now: false
       title: Round-robin feedback and preregistration of analyses
