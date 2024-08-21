@@ -28,15 +28,23 @@ sections:
         **What do we provide?**  
         We provide the hypotheses to be tested, organization of the round robin feedback, manage the dataset to be collected and provide access, as well as a custom preregistration template. Further, we have a small amount of funding available for research assistants to support labs that have little own funding. 
         
-        **What do we offer?** 
+        **What do we offer?**  
         Next to being part of an innovative large scale research project on memory and sleep, we offer all contributors (data-collecting labs and analysis teams) co-authorship on the replication manuscript. Data-collecting labs will also be offered co-authorship on the dataset publication. It is possible to take part in both data collection and analysis track.
         
         **Hypotheses**  
         Analysis teams will plan their analyses and report their results with regard to the following hypotheses. Results will be submitted using a standardized template including binary decisions, key statistical parameters, and standardized effect sizes.
         
-        *Coming soon!*  
+        <u>Behavioral</u>  
+        > **H1**: Memory performance for spatial locations of cued stimuli is better than that for uncued stimuli in the sleep group.  
+        **H2**: Memory performance for spatial locations of cued stimuli is comparable to that for uncued stimuli in the wake group.  
+        **H3**: The advantage in memory performance for spatial locations of cued over uncued stimuli is larger in the sleep group than in the wake group.  
+        **H4**: Sleep leads to a smaller decline in overall memory performance compared to wakefulness.  
         
-        
+        <u>EEG</u>  
+        > **H5**: For the cued stimuli, less forgetting is associated with increased EEG amplitude in the 600-1000 ms window after sound onset during sleep.  
+          
+          
+          
         **What’s the next step?**  
         Questions? Ask us! ManyBeds@zi-mannheim.de
         
