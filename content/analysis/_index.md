@@ -48,7 +48,7 @@ sections:
         **What’s the next step?**  
         Questions? Ask us! ManyBeds@zi-mannheim.de
         
-        ### Want to join? Sign up <u>[here](https://redcap.link/ManyBeds)</u>! 
-        **Deadline extended!** *Application closes on 31<sup>st</sup> of August 2024.*  
+        ### Want to join? 
+        Data analysis teams can still sign up <u>[here](https://redcap.link/ManyBeds)</u>! 
 
 ---

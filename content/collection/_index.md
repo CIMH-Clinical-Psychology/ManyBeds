@@ -34,9 +34,9 @@ sections:
         **What’s the next step?**  
         Questions? Ask us! ManyBeds@zi-mannheim.de
         
-        ### Want to join? Sign up <u>[here](https://redcap.link/ManyBeds)</u>!  
-        **Deadline extended!** *Application closes on 31<sup>st</sup> of August 2024.*  
-
+        *Application for the data collection track closed on 31<sup>st</sup> of August 2024.*
+        However, registration for the analysis track is still possible <u>[here](https://redcap.link/ManyBeds)</u>.
+        
 
 title: "Data collection"
 type: landing
