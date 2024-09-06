@@ -32,7 +32,7 @@ The slides you can find **[here](/ManyBeds/uploads/ManyBeds_2024_infoevent_slide
 
 
 **You already know you want to be a part of ManyBeds?**  
-Application for the data collection track *closed* on 31<sup>st</sup> of August 2024.
+Application for the data collection track *closed* on 31<sup>st</sup> of August 2024.  
 Registration for the analysis track is still possible **[here](https://redcap.link/ManyBeds)**.
 
 
